@@ -1,7 +1,7 @@
 # K-ABOT en
 K'abot - Low Cost, Arduino-based and Open-Source Robotic Arm for Education
 
-Designed by Craft3D, with the support of Factor3D.
+Designed by Craft3D (https://www.facebook.com/Craft3dhn/), with the support of Factor3D.
 
 This Repository contains all open source files for building a K'abot, a robotic arm that anyone can make! We encourage the community to develop all kinds of functions you may think of. K'abot has the mision of making robotics accesible for everyone around the world!
 
@@ -21,7 +21,7 @@ From Honduras, to the world!
 # K-ABOT es
 K'abot - Brazo Robotico de bajo costo, basado en Arduino y de fuente abierta orientado a educación
 
-Diseñado por Craft3D, con el apoyo de Factor3D.
+Diseñado por Craft3D (https://www.facebook.com/Craft3dhn/), con el apoyo de Factor3D.
 
 Este repositorio contiene todos los archivos de fuente abierta para armar un K'abot, un brazo robótico que cualquiera es capaz de armar! Invitamos a la comunidad a desarollar en nuestra plataforma todo tipo de funciones que puedan pensar. K'abot tiene la misión de hacer la educación en robótica accesible a todo el mundo!
 
